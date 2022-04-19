@@ -1,4 +1,4 @@
-<a href="https://www.youtube.com/watch?v=3lXuWHtm7PM&list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji&index=5" >
+<a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji" >
 <div align="center">
 				<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" width="230" alt="HTML"></div><div align="center"><br><b>HTML Course</b></div></a><br>
 
