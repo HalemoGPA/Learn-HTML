@@ -21,4 +21,14 @@ Elzero Web School HTML Course Assignments Solution
 [     • Assignment 3](https://github.com/HalemoGPA/Learn-HTML/tree/main/week2/Assignment3)    
 [     • Assignment 4](https://github.com/HalemoGPA/Learn-HTML/tree/main/week2/Assignment4)    
 [     • Assignment 5](https://github.com/HalemoGPA/Learn-HTML/tree/main/week2/Assignment5)    
-[     • Assignment 6](https://github.com/HalemoGPA/Learn-HTML/tree/main/week2/Assignment6)    
+[     • Assignment 6](https://github.com/HalemoGPA/Learn-HTML/tree/main/week2/Assignment6)     
+
+## Week 3️⃣   
+#### [codes for week 3](https://github.com/HalemoGPA/Learn-HTML/tree/main/week3)  
+[     • Assignment 1](https://github.com/HalemoGPA/Learn-HTML/tree/main/week3/Assignment1)    
+
+<br>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/HalemoGPA" target="_blank" ><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="HalemoGPA buy me a coffee" width="230"></a>
+</p>
+  
