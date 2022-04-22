@@ -32,7 +32,12 @@ Elzero Web School HTML Course Assignments Solution
 [     • Assignment 1](https://github.com/HalemoGPA/Learn-HTML/tree/main/week4/Assignment1)    
 
 
-
+## Week 5️⃣
+#### [codes for week 5](https://github.com/HalemoGPA/Learn-HTML/tree/main/week5)  
+[     • Assignment 1](https://github.com/HalemoGPA/Learn-HTML/tree/main/week5/Assignment1)    
+[     • Assignment 2](https://github.com/HalemoGPA/Learn-HTML/tree/main/week5/Assignment2)    
+[     • Assignment 3](https://github.com/HalemoGPA/Learn-HTML/tree/main/week5/Assignment3)    
+[     • Assignment 4](https://github.com/HalemoGPA/Learn-HTML/tree/main/week5/Assignment4)    
 
 
 
