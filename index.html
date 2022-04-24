@@ -7,15 +7,94 @@
     <meta name="description" content="There is awesome discount here">
 </head>
 <body>
-    <div>
         <h1>Book Store</h1>
         <p>This is my Book Store</p>
-    </div>
-    <video controls width="800" height="200" autoplay loop muted poster="../../Pictures/PNG/Halemo4.png">
-        <source src="media/ghosts.mp4" type="video/mp4">
-        <source src="media/ghosts.ogg" type="video/ogg">
-        Your browser does not support the video tag
-        <track kind="subtitles" src="media/ghosts.vtt" srclang="en" label="English subtitles" default>
-    </video>
+        <form action="" method="get">
+            <!-- <input type="hidden" value="osama">
+            <div>
+                <label>Username</label>
+                <input type="text" required placeholder="Enter Username" name="username" readonly value="HalemoGPA">
+            </div>
+            <br>
+            <div>
+                <label>Subject</label>
+                <input type="text" name="subject" autofocus>
+            </div>
+            <br>
+            <div>
+                <label>Range</label>
+                <input type="range" name="range" min="0" max="100" step=".20" value="0">
+            </div>
+            <br>
+            <div>
+                <label>Number</label>
+                <input type="number" name="number" min="10" max="150" step=".2">
+            </div>
+            <br>
+            <div>
+                <label>Password</label>
+                <input type="password" required name="password" minlength="10" maxlength="26">
+            </div>
+            <br>
+            <div>
+                <label>Color</label>
+                <input type="color" required name="color">
+            </div>
+            <br>
+            <div>
+                <label>Email</label>
+                <input type="email"  required placeholder="Type a valid Email" value="haleemb@gmail.com" name="email" disabled maxlength="60" minlength="10" readonly >
+            </div>
+            -->
+            <hr>
+            
+            <!-- <div>
+                <input id="windows" type="radio" name="os" value="Windows" checked >
+                <label for="windows">Windows</label>
+            </div>
+            <div>
+                <input id="linux" type="radio" name="os" value="Linux" >
+                <label for="linux">Linux</label>
+            </div>
+            <div>
+                <input id="mac" type="radio" name="os" value="Mac" >
+                <label for="mac">Mac</label>
+            </div>
+            <br>
+            <hr>
+            
+            <div>
+                <input id="checkwindows" type="checkbox" name="os" value="Windows"  >
+                <label for="checkwindows">Windows</label>
+            </div>
+            <div>
+                <input id="checklinux" type="checkbox" name="os" value="Linux" >
+                <label for="checklinux">Linux</label>
+            </div>
+            <div>
+                <input id="checkmac" type="checkbox" name="os" value="Mac" >
+                <label for="checkmac">Mac</label>
+            </div> -->
+            <label for="selectCountry">Choose Country</label>
+            <select name="country" id="selectCountry" >
+                <optgroup label="Middle East">
+                    <option value="Egypt" selected>Egypt</option>
+                    <option value="Palestine">Palestine</option>
+                    <option value="Iraq">Iraq</option>
+                    <option value="Syria">Syria</option>
+                </optgroup>
+                <optgroup label="West">
+                    <option value="USA">USA</option>
+                    <option value="Canada">Canada</option>
+                </optgroup>
+            </select>
+            <hr>
+            <br>
+            <textarea name="subject" id="subject" cols="30" rows="10"></textarea>
+            <br>
+            <hr>
+            <input type="submit" value="save">
+            <input type="reset" value="reset">
+        </form>
 </body>
 </html>
