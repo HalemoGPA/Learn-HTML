@@ -5,8 +5,14 @@
 ![](https://i.imgur.com/waxVImv.png)
 				
 
-# Learn HTML
-Elzero Web School HTML Course Assignments Solution
+# Learn HTML   
+   <div align="center">
+	<img src="https://www.onlygfx.com/wp-content/uploads/2018/04/completed-stamp-4-1024x791.png" width="200">
+	<br><br>
+	<p>Elzero Web School HTML Course Assignments Solution</p>
+</div>	
+
+
 ## Week 1️⃣
 #### [codes for week 1](https://github.com/HalemoGPA/Learn-HTML/tree/main/week1)  
 [     • Assignment 1](https://github.com/HalemoGPA/Learn-HTML/tree/main/week1/Assignment1)    
@@ -60,6 +66,9 @@ Elzero Web School HTML Course Assignments Solution
 #### [codes for week 9](https://github.com/HalemoGPA/Learn-HTML/tree/main/week9)  
 [     • Assignment 1](https://github.com/HalemoGPA/Learn-HTML/tree/main/week9/Assignment1)    
 [     • Assignment 2](https://github.com/HalemoGPA/Learn-HTML/tree/main/week9/Assignment2)    
+
+
+
 
 <br>
 <p align="center">
