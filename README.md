@@ -49,9 +49,17 @@ Elzero Web School HTML Course Assignments Solution
 [     • Assignment 2](https://github.com/HalemoGPA/Learn-HTML/tree/main/week7/Assignment2)    
 [     • Assignment 3](https://github.com/HalemoGPA/Learn-HTML/tree/main/week7/Assignment3)    
 
+## Week 8️⃣
+#### [codes for week 8](https://github.com/HalemoGPA/Learn-HTML/tree/main/week8)  
+[     • Assignment 1](https://github.com/HalemoGPA/Learn-HTML/tree/main/week8/Assignment1)    
+[     • Assignment 2](https://github.com/HalemoGPA/Learn-HTML/tree/main/week8/Assignment2)    
+[     • Assignment 3](https://github.com/HalemoGPA/Learn-HTML/tree/main/week8/Assignment3)    
+[     • Assignment 4](https://github.com/HalemoGPA/Learn-HTML/tree/main/week8/Assignment4)    
 
-
-
+## Week 9️⃣
+#### [codes for week 9](https://github.com/HalemoGPA/Learn-HTML/tree/main/week9)  
+[     • Assignment 1](https://github.com/HalemoGPA/Learn-HTML/tree/main/week9/Assignment1)    
+[     • Assignment 2](https://github.com/HalemoGPA/Learn-HTML/tree/main/week9/Assignment2)    
 
 <br>
 <p align="center">
