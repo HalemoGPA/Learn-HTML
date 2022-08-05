@@ -13,15 +13,15 @@
 </div>	
 
 
-## Week 1️⃣
-#### [codes for week 1](https://github.com/HalemoGPA/Learn-HTML/tree/main/week1)  
+## 1️⃣ Elements And Comments
+#### [codes for lessons from [01] to [05]](https://github.com/HalemoGPA/Learn-HTML/tree/main/week1)  
 [     • Assignment 1](https://github.com/HalemoGPA/Learn-HTML/tree/main/week1/Assignment1)    
 [     • Assignment 2](https://github.com/HalemoGPA/Learn-HTML/tree/main/week1/Assignment2)    
 [     • Assignment 3](https://github.com/HalemoGPA/Learn-HTML/tree/main/week1/Assignment3)    
 [     • Assignment 4](https://github.com/HalemoGPA/Learn-HTML/tree/main/week1/Assignment4)     
 
-## Week 2️⃣
-#### [codes for week 2](https://github.com/HalemoGPA/Learn-HTML/tree/main/week2)  
+## 2️⃣ Heading And Attributes
+#### [codes for lessons from [06] to [10]](https://github.com/HalemoGPA/Learn-HTML/tree/main/week2)  
 [     • Assignment 1](https://github.com/HalemoGPA/Learn-HTML/tree/main/week2/Assignment1)    
 [     • Assignment 2](https://github.com/HalemoGPA/Learn-HTML/tree/main/week2/Assignment2)    
 [     • Assignment 3](https://github.com/HalemoGPA/Learn-HTML/tree/main/week2/Assignment3)    
@@ -29,41 +29,41 @@
 [     • Assignment 5](https://github.com/HalemoGPA/Learn-HTML/tree/main/week2/Assignment5)    
 [     • Assignment 6](https://github.com/HalemoGPA/Learn-HTML/tree/main/week2/Assignment6)     
 
-## Week 3️⃣   
-#### [codes for week 3](https://github.com/HalemoGPA/Learn-HTML/tree/main/week3)  
+## 3️⃣ Link, Image, List  
+#### [codes for lessons from [11] to [14]](https://github.com/HalemoGPA/Learn-HTML/tree/main/week3)  
 [     • Assignment 1](https://github.com/HalemoGPA/Learn-HTML/tree/main/week3/Assignment1)    
 
-## Week 4️⃣   
-#### [codes for week 4](https://github.com/HalemoGPA/Learn-HTML/tree/main/week4)  
+## 4️⃣ Table, Div
+#### [codes for lessons from [15] to [18]](https://github.com/HalemoGPA/Learn-HTML/tree/main/week4)  
 [     • Assignment 1](https://github.com/HalemoGPA/Learn-HTML/tree/main/week4/Assignment1)    
 
 
-## Week 5️⃣
-#### [codes for week 5](https://github.com/HalemoGPA/Learn-HTML/tree/main/week5)  
+## 5️⃣ Audio, Video
+#### [codes for lessons from [19] to [23]](https://github.com/HalemoGPA/Learn-HTML/tree/main/week5)  
 [     • Assignment 1](https://github.com/HalemoGPA/Learn-HTML/tree/main/week5/Assignment1)    
 [     • Assignment 2](https://github.com/HalemoGPA/Learn-HTML/tree/main/week5/Assignment2)    
 [     • Assignment 3](https://github.com/HalemoGPA/Learn-HTML/tree/main/week5/Assignment3)    
 [     • Assignment 4](https://github.com/HalemoGPA/Learn-HTML/tree/main/week5/Assignment4)    
 
-## Week 6️⃣   
-#### [codes for week 6](https://github.com/HalemoGPA/Learn-HTML/tree/main/week6/)  
+## 6️⃣ Form Part 1
+#### [codes for lessons from [24] to [27]](https://github.com/HalemoGPA/Learn-HTML/tree/main/week6/)  
 [     • Assignment 1](https://github.com/HalemoGPA/Learn-HTML/tree/main/week6/Assignment1)    
 
-## Week 7️⃣
-#### [codes for week 7](https://github.com/HalemoGPA/Learn-HTML/tree/main/week7)  
+## 7️⃣ Form Part 2
+#### [codes for lessons from [28] to [30]](https://github.com/HalemoGPA/Learn-HTML/tree/main/week7)  
 [     • Assignment 1](https://github.com/HalemoGPA/Learn-HTML/tree/main/week7/Assignment1)    
 [     • Assignment 2](https://github.com/HalemoGPA/Learn-HTML/tree/main/week7/Assignment2)    
 [     • Assignment 3](https://github.com/HalemoGPA/Learn-HTML/tree/main/week7/Assignment3)    
 
-## Week 8️⃣
-#### [codes for week 8](https://github.com/HalemoGPA/Learn-HTML/tree/main/week8)  
+## 8️⃣ Form Part 3
+#### [codes for lessons from [31] to [34]](https://github.com/HalemoGPA/Learn-HTML/tree/main/week8)  
 [     • Assignment 1](https://github.com/HalemoGPA/Learn-HTML/tree/main/week8/Assignment1)    
 [     • Assignment 2](https://github.com/HalemoGPA/Learn-HTML/tree/main/week8/Assignment2)    
 [     • Assignment 3](https://github.com/HalemoGPA/Learn-HTML/tree/main/week8/Assignment3)    
 [     • Assignment 4](https://github.com/HalemoGPA/Learn-HTML/tree/main/week8/Assignment4)    
 
-## Week 9️⃣
-#### [codes for week 9](https://github.com/HalemoGPA/Learn-HTML/tree/main/week9)  
+## 9️⃣ iFrame, ARIA
+#### [codes for lessons from [35] to [37]](https://github.com/HalemoGPA/Learn-HTML/tree/main/week9)  
 [     • Assignment 1](https://github.com/HalemoGPA/Learn-HTML/tree/main/week9/Assignment1)    
 [     • Assignment 2](https://github.com/HalemoGPA/Learn-HTML/tree/main/week9/Assignment2)    
 
